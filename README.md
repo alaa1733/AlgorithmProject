@@ -16,3 +16,16 @@ finally ,there is a data.text which contain 3 diffrent graphs to compare the tim
 ![KruskalTime](https://user-images.githubusercontent.com/91046393/174465739-a42000eb-d6b9-4f09-a9f5-d2fb63caaff6.png)
 
 
+
+
+
+https://user-images.githubusercontent.com/91046393/174465872-28f71b29-3f7f-4502-a9c7-52254f9ff34a.mp4
+
+
+
+https://user-images.githubusercontent.com/91046393/174465917-7c141e3b-2962-436b-aeea-8588c0bfd53f.mp4
+
+
+
+https://user-images.githubusercontent.com/91046393/174465920-20002690-281d-454d-8f68-ab44d4f08c85.mp4
+
