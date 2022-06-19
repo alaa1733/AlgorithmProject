@@ -1,4 +1,4 @@
-# AlgorithmProject
+# AlgorithmProject In Python
 Algorithm Project in python ,using Dijkstra's &amp; Kruskal to see the different and compare the time between them .
 
 First we have a (ProjectDijkstraInBH) file that has a basic interface the user will enter the source number if print wrong that mean the number is 
